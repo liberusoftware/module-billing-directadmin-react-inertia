@@ -1,0 +1,15 @@
+{
+  "repository": "module-billing-directadmin-react-inertia",
+  "capabilityKey": "liberusoftware/billing-directadmin",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-billing-directadmin-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/billing/nextjs/module-billing-directadmin.md",
+  "presentationPlan": "projects/billing/react/module-billing-directadmin.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "billing"
+  ]
+}
